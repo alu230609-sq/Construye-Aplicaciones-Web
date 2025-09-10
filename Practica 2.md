@@ -1,15 +1,6 @@
 # Construye-Aplicaciones-Web
-CAWeb1.html <br>
-<img width="603" height="723" alt="image" src="https://github.com/user-attachments/assets/8439e29d-98f3-4638-959e-9fc6e8201d12" />
 
-CAWeb2.html <br>
-<img width="1350" height="713" alt="image" src="https://github.com/user-attachments/assets/1142d7d1-6837-4546-a94c-7f21f8790755" />
-
-CAWeb3.html <br>
-<img width="539" height="688" alt="image" src="https://github.com/user-attachments/assets/d9607458-0f59-443d-b1cb-cf11c61fc06f" />
-
-CAWeb4.html <br>
-<img width="409" height="425" alt="image" src="https://github.com/user-attachments/assets/6ae68109-3139-4552-9ccd-40d593a418df" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4dc55a22-5d16-4e00-89d0-48f27ce8fea2" />
 
 
 
